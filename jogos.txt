@@ -1,0 +1,20 @@
+Formula 1 23,359.00,83
+Forza Horizon 5,249.00,92
+NBA 2k23,124.87,70
+Dragonball Z Kakarot,61.97,73
+Street Fighter 6,249.00,92
+Devil May Cry 5,100.00,89
+God of War,200.00,94
+Sekiro,200.00,90
+Hotline Miami,33.00,85
+Marvel's Spider-Man Remastered,250.00,87
+Counter Strike Global Offensive (Prime),77.00,88
+Fifa 23,300.00,76
+GTA San Andreas,300.00,95
+Sonic Origins,215.00,74
+Top Gear 1,290.00,89
+The Legend of Zelda - Breath of the Wild,300.00,97
+NieR:Automata,107.00,88
+Mario Kart 8 Deluxe,300.00,92
+Final Fantasy X,60.00,92
+Metroid Dread,300.00,88
